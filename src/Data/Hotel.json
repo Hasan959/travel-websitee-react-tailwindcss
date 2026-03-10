@@ -8,6 +8,11 @@
         "image":"/Images/hotel1.png",
         "featured":"true",
         "description":"Lorem ipsum dolor sit amet consectetur adipiscing elit. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.",
-        "descriptionn":"Lorem ipsum dolor sit amet consectetur adipiscing elit. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor." 
+        "facilities":[
+            {"name": "Free wi-fi","icon":"wifi"},
+            {"name":"swimming pool","icon":"swimming"}
+
+        ]
+         
     }
 ]
