@@ -10,9 +10,18 @@
         "description":"Lorem ipsum dolor sit amet consectetur adipiscing elit. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.",
         "facilities":[
             {"name": "Free wi-fi","icon":"wifi"},
-            {"name":"swimming pool","icon":"swimming"}
+            {"name":"swimming pool","icon":"swimming"},
+            {"name":"Restaurent", "icon":"restaurent" },
+            {"name":"Airport shuttle","icon":"bus"},
+            {"name":"spa & wellness","icon":"heart-pulse"}
 
         ]
          
+    },
+    {
+        "id":2,
+        "name":"Mountain Escape Resort",
+        "location":"Switzerland"
+
     }
 ]
