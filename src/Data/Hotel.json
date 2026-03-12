@@ -21,7 +21,20 @@
     {
         "id":2,
         "name":"Mountain Escape Resort",
-        "location":"Switzerland"
+        "location":"Switzerland",
+        "rating":4.9,
+        "reviews":87,
+        "price":420,
+        "image":"/Images/hotel2.png",
+        "featured":true,
+        "description":"Enjoy a peaceful retreat in the swis Alps with brethtaking views,cozy chalets,and ski-in/ski-out access.",
+        "facilities":[
+            {"name": "Free wi-fi","icon":"wifi"},
+            {"name":"swimming pool","icon":"swimming"},
+            {"name":"Restaurent", "icon":"restaurent" },
+            {"name":"Airport shuttle","icon":"bus"},
+            {"name":"spa & wellness","icon":"heart-pulse"}
+        ]
 
     }
 ]
