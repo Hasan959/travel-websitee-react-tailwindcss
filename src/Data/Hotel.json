@@ -36,5 +36,63 @@
             {"name":"spa & wellness","icon":"heart-pulse"}
         ]
 
+    },
+    {
+        "id":3,
+        "name":"Urban  city Hotel ",
+        "location":"New York,USA ",
+        "rating":4.5,
+        "reviews":280,
+        "price":290,
+        "image":"/Images/hotel3.png",
+        "featured":false,
+        "description":"Located in the heat of hsc,perfect for business travels and touries,with modern and great connectivity ",
+        "facilities":[
+            {"name": "Free wi-fi","icon":"wifi"},
+            {"name":"GYM","icon":"dumbell"},
+            {"name":"bar", "icon":"beer" },
+            {"name":"conference Room","icon":"briefcase"},
+            {"name":"Room Service","icon":"bell"}
+        ]
+
+    },
+    {
+        "id":4,
+        "name":"Romanthik Beachfront Inn",
+        "location":"Bali Indonesia ",
+        "rating":4.6,
+        "reviews":154,
+        "price":300,
+        "image":"/Images/hotel4.png",
+        "featured":true,
+        "description":"Pperfect for couples,this romanthik getway offers beachfront dining and private villas with pools ",
+        "facilities":[
+            {"name": "private pool","icon":"droplet"},
+            {"name":"Spa Services","icon":"heart"},
+            {"name":"Beach Acces ", "icon":"umbrella" },
+            {"name":"Free Breakfast ","icon":"coffe"},
+            {"name":"Free Wi-Fi ","icon":"wifi"}
+        ]
+
+    },
+    {
+        "id":5,
+        "name":"Mountain Escape Resort",
+        "location":"Switzerland",
+        "rating":4.9,
+        "reviews":87,
+        "price":420,
+        "image":"/Images/hotel5.png",
+        "featured":false,
+        "description":"A Stylish hotel in Arabain architecture,rooftop pools, and desert tour package. ",
+        "facilities":[
+            {"name": "Rooftop pool","icon":"water"},
+            {"name":"Desert Safari ","icon":"compass"},
+            {"name":"Restaurent", "icon":"restaurent" },
+            {"name":"Fitness center ","icon":"dumbell"},
+            {"name":"Airport shuttle ","icon":"bus"}
+        ]
+
     }
+
 ]
