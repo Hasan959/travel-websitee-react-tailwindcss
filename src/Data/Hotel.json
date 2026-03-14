@@ -77,11 +77,11 @@
     },
     {
         "id":5,
-        "name":"Mountain Escape Resort",
-        "location":"Switzerland",
-        "rating":4.9,
-        "reviews":87,
-        "price":420,
+        "name":"Desert Mirage Hotel ",
+        "location":"Dubai,UAE",
+        "rating":4.3,
+        "reviews":199,
+        "price":399,
         "image":"/Images/hotel5.png",
         "featured":false,
         "description":"A Stylish hotel in Arabain architecture,rooftop pools, and desert tour package. ",
@@ -91,6 +91,82 @@
             {"name":"Restaurent", "icon":"restaurent" },
             {"name":"Fitness center ","icon":"dumbell"},
             {"name":"Airport shuttle ","icon":"bus"}
+        ]
+
+    },
+    {
+        "id":6,
+        "name":"Tropical Garden Resort",
+        "location":"Phuket,Thailand",
+        "rating":4.8,
+        "reviews":110,
+        "price":275,
+        "image":"/Images/hotel6.png",
+        "featured":true,
+        "description":"Surronded by lush gardens and waterfalls,this resort offers eco-friendly rooms and yoga retreats",
+        "facilities":[
+            {"name": "Eco rooms","icon":"leaf"},
+            {"name":"Yoga classes","icon":"meditation"},
+            {"name":"swimming pool", "icon":"swimming" },
+            {"name":"Free Wi-Fi ","icon":"wifi"},
+            {"name":"spa & wellness","icon":"heart-pulse"}
+        ]
+
+    },
+    {
+        "id":7,
+        "name":"Lakview Boutique Hotel  ",
+        "location":"Queentown,New Zealand",
+        "rating":4.4,
+        "reviews":142,
+        "price":310,
+        "image":"/Images/hotel7.png",
+        "featured":false,
+        "description":"Enjoy panoramic lake views,modern design,and warm service in the adventure capital of New zealand ",
+        "facilities":[
+            {"name": "Lake view","icon":"eye"},
+            {"name":"Fre parking","icon":"car"},
+            {"name":"Breakfast Included ", "icon":"coffe" },
+            {"name":"Mini Bar ","icon":"wine"},
+            {"name":"Free Wi-Fi ","icon":"wifi"}
+        ]
+
+    },
+    {
+        "id":8,
+        "name":"Forest Hideway cabin",
+        "location":"Banf,Canada",
+        "rating":4.9,
+        "reviews":95,
+        "price":320,
+        "image":"/Images/hotel8.png",
+        "featured":true,
+        "description":"A rustic and cozy cabin tucked away in nature,perfect for wildlife watching and hiking",
+        "facilities":[
+            {"name": "Fireplace","icon":"flame"},
+            {"name":"Moutaina view","icon":"mountain"},
+            {"name":"Hiking Trails", "icon":"compas" },
+            {"name":"BBQ Grill","icon":"grill"},
+            {"name":"Pet Friendly","icon":"paw"}
+        ]
+
+    },
+    {
+        "id":9,
+        "name":"Historic Palace Hotel  ",
+        "location":"Vinna,Austria",
+        "rating":4.2,
+        "reviews":176,
+        "price":450,
+        "image":"/Images/hotel9.png",
+        "featured":false,
+        "description":"Stay in a renovated 19th-century palace with grand ballrooms, chandeliers and classical elegance",
+        "facilities":[
+            {"name": "Historic Rooms","icon":"building"},
+            {"name":"Piano Bar","icon":"music"},
+            {"name":"Concierge", "icon":"user" },
+            {"name":"Free Breakfast ","icon":"coffe"},
+            {"name":"Wi-Fi","icon":"wifi"}
         ]
 
     }
