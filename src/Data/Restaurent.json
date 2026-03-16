@@ -2,6 +2,12 @@
     {
         "id":10,
         "title":"Fast Food",
-        "location":"Bangkok, Thailand "
+        "location":"Bangkok, Thailand ",
+        "price":95,
+        "oldPrice":120,
+        "rating":4.7,
+        "reviews":20,
+        "tag":"popular",
+        "image":"/Images/resataurent1.png"
     }
 ]
