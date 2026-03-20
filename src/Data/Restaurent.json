@@ -42,5 +42,16 @@
         "reviews":50,
         "tag":"New",
         "image":"/Images/resataurent2.png"
+    },
+    {
+        "id":14,
+        "title":"Italian Cuisine ",
+        "location":"Rome, Italy ",
+        "price":150,
+        "oldPrice":200,
+        "rating":4.9,
+        "reviews":50,
+        "tag":"New",
+        "image":"/Images/resataurent2.png"
     }
 ]
