@@ -23,35 +23,35 @@
     },
     {
         "id":12,
-        "title":"Italian Cuisine ",
-        "location":"Rome, Italy ",
-        "price":150,
-        "oldPrice":200,
-        "rating":4.9,
-        "reviews":50,
-        "tag":"New",
-        "image":"/Images/resataurent2.png"
+        "title":"Sushi Bar ",
+        "location":"Tokyo, Japan ",
+        "price":110,
+        "oldPrice":130,
+        "rating":4.8,
+        "reviews":35,
+        "tag":"Featured",
+        "image":"/Images/resataurent3.png"
     },
     {
         "id":13,
-        "title":"Italian Cuisine ",
-        "location":"Rome, Italy ",
-        "price":150,
-        "oldPrice":200,
-        "rating":4.9,
-        "reviews":50,
-        "tag":"New",
-        "image":"/Images/resataurent2.png"
+        "title":"Seafood Delight",
+        "location":"Sydney,Australia ",
+        "price":175,
+        "oldPrice":220,
+        "rating":4.6,
+        "reviews":18,
+        "tag":"Trending",
+        "image":"/Images/resataurent4.png"
     },
     {
         "id":14,
-        "title":"Italian Cuisine ",
-        "location":"Rome, Italy ",
-        "price":150,
-        "oldPrice":200,
-        "rating":4.9,
-        "reviews":50,
-        "tag":"New",
-        "image":"/Images/resataurent2.png"
+        "title":"Bistro & Cafe",
+        "location":"Paris,France ",
+        "price":85,
+        "oldPrice":100,
+        "rating":4.5,
+        "reviews":25,
+        "tag":"Cozy",
+        "image":"/Images/resataurent5.png"
     }
 ]
