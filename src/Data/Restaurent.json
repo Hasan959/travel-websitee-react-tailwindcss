@@ -53,5 +53,49 @@
         "reviews":25,
         "tag":"Cozy",
         "image":"/Images/resataurent5.png"
+    },
+    {
+        "id":15,
+        "title":"Steakhouse",
+        "location":"Texas,usa ",
+        "price":120,
+        "oldPrice":140,
+        "rating":4.8,
+        "reviews":30,
+        "tag":"Recommended",
+        "image":"/Images/resataurent6.png"
+    },
+    {
+        "id":16,
+        "title":"cafe House",
+        "location":"Berkin,Germany ",
+        "price":105,
+        "oldPrice":125,
+        "rating":4.4,
+        "reviews":22,
+        "tag":"Friendly",
+        "image":"/Images/resataurent7.png"
+    },
+    {
+        "id":17,
+        "title":"Grand Dine",
+        "location":"Dubai,UAE",
+        "price":210,
+        "oldPrice":250,
+        "rating":4.9,
+        "reviews":40,
+        "tag":"Luxury",
+        "image":"/Images/resataurent8.png"
+    },
+    {
+        "id":18,
+        "title":"Urban Grill",
+        "location":"New York,USA",
+        "price":195,
+        "oldPrice":230,
+        "rating":4.7,
+        "reviews":28,
+        "tag":"Luxury",
+        "image":"/Images/resataurent9.png"
     }
 ]
