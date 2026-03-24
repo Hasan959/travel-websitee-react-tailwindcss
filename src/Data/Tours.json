@@ -3,12 +3,60 @@
         "id":19,
         "title":"Boat Ride in Lago di Braies",
         "location":"South Tyrol Italy",
-        "duration": "3 days,2 night"
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":113,
+        "rating":4.9,
+        "reviews":148,
+        "tag":"Featured",
+        "image":"/Images/image2.png"
     },
     {
         "id":20,
         "title":"Boat Ride in Lago di Braies",
         "location":"South Tyrol Italy",
-        "duration": "3 days,2 night"
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":81,
+        "rating":4.8,
+        "reviews":95,
+        "tag":"Featured",
+        "image":"/Images/image1.jpeg"
+    },
+    {
+        "id":21,
+        "title":"Boat Ride in Lago di Braies",
+        "location":"South Tyrol Italy",
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":81,
+        "rating":4.8,
+        "reviews":95,
+        "tag":"Featured",
+        "image":"/Images/image3.jpeg"
+    },
+    {
+        "id":22,
+        "title":"sunset with Horse",
+        "location":"Carpathin Mountains,Romania",
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":81,
+        "rating":4.8,
+        "reviews":95,
+        "tag":"Featured",
+        "image":"/Images/image4.jpeg"
+    },
+    {
+        "id":23,
+        "title":"Montserrat Rocky peaks",
+        "location":"Catalonia,Spain",
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":102,
+        "rating":4.5,
+        "reviews":83,
+        "tag":"Featured",
+        "image":"/Images/image5.jpeg"
     }
 ]
