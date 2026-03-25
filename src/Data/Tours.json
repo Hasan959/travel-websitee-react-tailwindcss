@@ -13,8 +13,8 @@
     },
     {
         "id":20,
-        "title":"Boat Ride in Lago di Braies",
-        "location":"South Tyrol Italy",
+        "title":"Train Journey through Ella",
+        "location":"Ella,Srilanka",
         "duration": "3 days,2 night",
         "persons":"2 person",
         "price":81,
@@ -25,13 +25,13 @@
     },
     {
         "id":21,
-        "title":"Boat Ride in Lago di Braies",
-        "location":"South Tyrol Italy",
+        "title":"Vernazza coastarl Village",
+        "location":"Cinque Terre,Italy ",
         "duration": "3 days,2 night",
         "persons":"2 person",
-        "price":81,
-        "rating":4.8,
-        "reviews":95,
+        "price":118,
+        "rating":4.9,
+        "reviews":132,
         "tag":"Featured",
         "image":"/Images/image3.jpeg"
     },
@@ -41,9 +41,9 @@
         "location":"Carpathin Mountains,Romania",
         "duration": "3 days,2 night",
         "persons":"2 person",
-        "price":81,
-        "rating":4.8,
-        "reviews":95,
+        "price":87,
+        "rating":4.6,
+        "reviews":76,
         "tag":"Featured",
         "image":"/Images/image4.jpeg"
     },
@@ -58,5 +58,65 @@
         "reviews":83,
         "tag":"Featured",
         "image":"/Images/image5.jpeg"
+    },
+    {
+        "id":24,
+        "title":"Explore Thailand by Boat ",
+        "location":"Khao Sok,Thailand",
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":89,
+        "rating":4.8,
+        "reviews":102,
+        "tag":"Featured",
+        "image":"/Images/image6.jpeg"
+    },
+    {
+        "id":25,
+        "title":" Hidden Beach Escape ",
+        "location":"Lycia Coast,Turkey",
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":120,
+        "rating":4.9,
+        "reviews":54,
+        "tag":"Featured",
+        "image":"/Images/image7.jpeg"
+    },
+    {
+        "id":26,
+        "title":"Retro Van Roadtrin ",
+        "location":"Sahyadri Hiils,India",
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":93,
+        "rating":4.5,
+        "reviews":102,
+        "tag":"Featured",
+        "image":"/Images/image8.jpeg"
+    },
+    {
+        "id":27,
+        "title":"Modern Cozy  Living Room with Neural Decor ",
+        "location":"Thonglor,Bangkok",
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":250,
+        "rating":3.7,
+        "reviews":10,
+        "tag":"Featured",
+        "image":"/Images/image9.jpeg"
+    },
+    {
+        "id":28,
+        "title":"Elegant Dining Space with Ambient Lighting ",
+        "location":"Satron,Bangkok",
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":106,
+        "rating":4.7,
+        "reviews":20,
+        "tag":"Featured",
+        "image":"/Images/image10.jpeg"
     }
 ]
