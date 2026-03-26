@@ -111,12 +111,72 @@
         "id":28,
         "title":"Elegant Dining Space with Ambient Lighting ",
         "location":"Satron,Bangkok",
+        "duration": "4 days,2 night",
+        "persons":"1 person",
+        "price":100,
+        "rating":2,
+        "reviews":12,
+        "tag":"Featured",
+        "image":"/Images/image10.jpeg"
+    },
+    {
+        "id":29,
+        "title":"Spacious Minimalist Bedroom Interior ",
+        "location":"Ari,Bangkok",
         "duration": "3 days,2 night",
         "persons":"2 person",
         "price":106,
         "rating":4.7,
         "reviews":20,
         "tag":"Featured",
-        "image":"/Images/image10.jpeg"
+        "image":"/Images/image11.jpeg"
+    },
+    {
+        "id":30,
+        "title":"Contempurary Kitchen with Marble Finishes ",
+        "location":"Ekkamai,Bangkok",
+        "duration": "3 days,2 night",
+        "persons":"2 person",
+        "price":97,
+        "rating":4.7,
+        "reviews":20,
+        "tag":"Featured",
+        "image":"/Images/image11.jpeg"
+    },
+    {
+        "id":31,
+        "title":"Kayaking in the Rockies",
+        "location":"Moraine Lake,Canada",
+        "duration": "3 days,2 night",
+        "persons":"1 person",
+        "price":115,
+        "rating":4.8,
+        "reviews":42,
+        "tag":"Featured",
+        "image":"/Images/image13.jpeg"
+    },
+    {
+        "id":32,
+        "title":"Sunset Paddle Adventure",
+        "location":"Maui,Hawii",
+        "duration": "1 day",
+        "persons":"1 person",
+        "price":84,
+        "rating":4.9,
+        "reviews":68,
+        "tag":"Featured",
+        "image":"/Images/image14.jpeg"
+    },
+    {
+        "id":33,
+        "title":"Style Home Office with Natural Light",
+        "location":"Silom,Bangkok",
+        "duration": "3 day 2  night",
+        "persons":"2 person",
+        "price":100,
+        "rating":4.7,
+        "reviews":20,
+        "tag":"Featured",
+        "image":"/Images/image15.jpeg"
     }
 ]
