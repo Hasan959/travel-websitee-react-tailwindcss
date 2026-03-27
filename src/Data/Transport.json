@@ -1,0 +1,28 @@
+[
+    {
+        "id":34,
+        "name":"Apex Drive 4T",
+        "location":"New South Thailand",
+        "Mileage":"6542 Miles",
+        "transmission":"Automatic",
+        "trips":120,
+        "seats":4,
+        "rating":5.0,
+        "reviews":20,
+        "price":95,
+        "image":"Images/transports2.png"
+    },
+    {
+        "id":35,
+        "name":"Lux TLine",
+        "location":"Bangkok, Thailand",
+        "Mileage":"7300 Miles",
+        "transmission":"Manual",
+        "trips":98,
+        "seats":5,
+        "rating":4.3,
+        "reviews":34,
+        "price":85,
+        "image":"Images/transports3.png"
+    }
+]
