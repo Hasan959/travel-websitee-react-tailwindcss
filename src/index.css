@@ -11,9 +11,13 @@
     list-style: none;
     text-decoration: none;
     font-family: "DM Sans", sans-serif;
+    font-family: "DM Sans", sans-serif;
 }
 :root {
     --primary-color: #017b6e;
     --secondary-color: #f26f55;
+    --section-bg: #12151e;
+    --section-light: #222839;
+    --background-linear: linear-gradient(180deg, #efeedb 0%, rgba(239,238, 219, 0) 100% )
 
 }
