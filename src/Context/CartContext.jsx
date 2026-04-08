@@ -18,5 +18,8 @@ export const CartProvider = ({children}) => {    //children mane er ei provider 
             setCartItems(prev =>[...prev ,item] )
          }
     }
+    const removeFromCart = (id) => {
+        setCartItems (prev=> prev.filter(item.id !== id )  )
+    }
     
 }
