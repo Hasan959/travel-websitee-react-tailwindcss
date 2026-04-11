@@ -2,7 +2,7 @@ import React, { Children, createContext, useEffect, useState} from "react";
 
 export const CartContext = createContext();
 
-export const CartProvider = ({Children}) => {    //children mane er ei provider er moddhe jotogulo component rakha hbe(cart,product,etc) sob e children hisabe pabe. 
+export const CartProvider = ({children}) => {    //children mane er ei provider er moddhe jotogulo component rakha hbe(cart,product,etc) sob e children hisabe pabe. 
     const [cartItems, setCartItems ] = useState(() => {
         const stored = localStorage.getItem('cart')
         return stored ? JSON.parse(stored) : [];//kkk
@@ -19,11 +19,11 @@ export const CartProvider = ({Children}) => {    //children mane er ei provider 
          }
     }
     const removeFromCart = (id) => {
-        setCartItems (prev=> prev.filter(item.id !== id )  )
+        setCartItems (prev=> prev.filter(item => item.id !== id )  )
     }
     return(
          <CartContext.Provider value ={{cartItems , addToCart , removeFromCart}} >
-            {Children}
+            {children}
          </CartContext.Provider>
     )
     
